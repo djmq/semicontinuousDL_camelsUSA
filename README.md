@@ -13,7 +13,7 @@ semicontinuousDL_camelsUSA is a set of MATLAB scripts and functions for training
 	- hurdle_training_pipeline.m
 	- rg_training_pipeline.m
 
-
+Note: The code has been tested in MATLAB R2024a. There is no guarantee it will work as intended in previous versions.
 
 ## Usage
 
